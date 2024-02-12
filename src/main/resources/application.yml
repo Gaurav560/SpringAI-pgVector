@@ -1,0 +1,5 @@
+#spring:
+#  datasource:
+#    url: jdbc:postgresql://localhost:5432/vector_store
+#    username: postgres
+#    password: Lumia@540
